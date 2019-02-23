@@ -1,0 +1,25 @@
+{
+  "name": "node-sse-example",
+  "version": "0.0.0",
+  "private": true,
+  "description": "node-sse-example ================",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kljensen/node-sse-example.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "39e6d389e886492ca21d17aedd7b909780aadac8",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "~4.16.3",
+    "http-proxy-middleware": "^0.19.1",
+    "nodemon": "~1.17.3"
+  }
+}
