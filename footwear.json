@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Adidas Seeley",
+    "price": 5590,
+    "image": "../images/seeley.png"
+  },
+  {
+    "id": 2,
+    "name": "Asics Gel Kayano",
+    "price": 5790,
+    "image": "../images/kayano.png"
+  },
+  {
+    "id": 3,
+    "name": "Vans Old Skool",
+    "price": 3899,
+    "image": "../images/oldskool.jpeg"
+  }
+]

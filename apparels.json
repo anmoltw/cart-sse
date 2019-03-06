@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Navy Blue Regular Fit Plain Front Trouser",
+    "price": 4590,
+    "image": "../images/product-image1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Borg Lined Hoody",
+    "price": 5790,
+    "image": "../images/product-image2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Olive Solid Slim Fit Chinos",
+    "price": 1899,
+    "image": "../images/product-image3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Navy Blue solid Jacket",
+    "price": 5999,
+    "image": "../images/product-image4.jpg"
+  }
+]
